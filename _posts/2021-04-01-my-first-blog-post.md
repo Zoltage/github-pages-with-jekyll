@@ -1,1 +1,4 @@
-f f f f f f f f
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
